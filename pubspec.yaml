@@ -1,0 +1,54 @@
+name: m4d
+description: Material 4 Dart - Meta-Package
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: Mike Mitterer <email@example.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  m4d_animation: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_animation
+
+  m4d_components: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_components
+
+  m4d_core: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_core
+
+  m4d_dialog: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_dialog
+
+  m4d_directive: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_directive
+
+  m4d_dnd: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_dnd
+
+  m4d_flux: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_flux
+
+  m4d_form: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_form
+
+  m4d_router: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_router
+
+  m4d_spa: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_spa
+
+  m4d_template: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_template
+
+  m4d_translate: '>=0.1.0 <1.0.0'
+  # path: /Volumes/Daten/DevLocal/DevDart/m4d/m4d_translate
+
+dev_dependencies:
+  test: ^1.0.0
+
+  build_runner: any
+  build_web_compilers: any
+
+  sass_builder: any
+
